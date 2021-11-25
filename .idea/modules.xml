@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1507428842/USB Tether-app.iml" filepath="$PROJECT_DIR$/.idea/modules/-1507428842/USB Tether-app.iml" group="USB Tether/app" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-796163964/USB_Tether.iml" filepath="$PROJECT_DIR$/.idea/modules/-796163964/USB_Tether.iml" group="USB_Tether" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/USB-Tether.iml" filepath="$PROJECT_DIR$/.idea/modules/USB-Tether.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/USB-Tether.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/USB-Tether.app.iml" />
     </modules>
   </component>
 </project>
